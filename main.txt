@@ -1,2 +1,4 @@
 Welcome all!
 This is my Basic file to understand git.
+
+I am adding some data here in 2nd Commit.
